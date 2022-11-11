@@ -4,7 +4,7 @@ This is official code implementation of the &lt;Achieving a Better Stability-Pla
 ## How To Use
 We implement our code based on FACIL available online https://github.com/mmasana/FACIL
 
-Below instructions are from FACIL directory and no additional library is required to run our code.
+Below instructions are from FACIL directory and no additional library is required to run our code. Please refer to above link to find more information to run code with different setting.
 
 <details>
   <summary>Optionally, create an environment to run the code (click to expand).</summary>
