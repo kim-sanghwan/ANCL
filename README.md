@@ -1,5 +1,5 @@
 # ANCL-master
-This is official code implementation of the &lt;Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning>
+This is official code implementation of the &lt;Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning> in CVPR 2023
 
 ## How To Use
 We implement our code based on FACIL available online https://github.com/mmasana/FACIL
