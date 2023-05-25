@@ -34,7 +34,7 @@ Below instructions are from FACIL directory and no additional library is require
 
 </details>
 
-## Citations 
+## Citation
 
 Please cite our paper if it is helpful to your work:
 
