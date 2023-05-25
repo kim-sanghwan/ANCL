@@ -38,7 +38,7 @@ Below instructions are from FACIL directory and no additional library is require
 
 Please cite our paper if it is helpful to your work:
 
-```
+```bibtex
 @InProceedings{Kim_2023_CVPR,
     author    = {Kim, Sanghwan and Noci, Lorenzo and Orvieto, Antonio and Hofmann, Thomas},
     title     = {Achieving a Better Stability-Plasticity Trade-Off via Auxiliary Networks in Continual Learning},
