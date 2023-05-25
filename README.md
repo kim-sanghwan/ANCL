@@ -33,3 +33,19 @@ Below instructions are from FACIL directory and no additional library is require
   ```
 
 </details>
+
+## Citations 
+
+Please cite our paper if it is helpful to your work:
+
+```
+@InProceedings{Kim_2023_CVPR,
+    author    = {Kim, Sanghwan and Noci, Lorenzo and Orvieto, Antonio and Hofmann, Thomas},
+    title     = {Achieving a Better Stability-Plasticity Trade-Off via Auxiliary Networks in Continual Learning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {11930-11939}
+}
+```
+
